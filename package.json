@@ -1,0 +1,16 @@
+{
+  "name": "sell",
+  "version": "1.0.0",
+  "description": "Cross-browser text selection made simple",
+  "main": "sell.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bevacqua/sell.git"
+  },
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bevacqua/sell/issues"
+  },
+  "homepage": "https://github.com/bevacqua/sell"
+}
