@@ -1,6 +1,6 @@
 # Sell
 
-> Cross-browser text selection made simple
+> Cross-browser text input selection made simple
 
 # Install
 
