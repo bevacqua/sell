@@ -1,7 +1,7 @@
 {
   "name": "sell",
   "version": "1.0.0",
-  "description": "Cross-browser text selection made simple",
+  "description": "Cross-browser text input selection made simple",
   "main": "sell.js",
   "repository": {
     "type": "git",
