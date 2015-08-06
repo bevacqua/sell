@@ -93,4 +93,10 @@ function sell (el, p) {
   return get(el);
 }
 
-module.exports = sell;
+if (typeof define === "function" && define.amd) {
+  define(function() {
+    return sell;
+  });
+} else if (typeof module != "undefined" && module.exports) {
+  module.exports = sell;
+}
