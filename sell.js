@@ -3,7 +3,7 @@
 var get = easyGet;
 var set = easySet;
 
-if (document.selection && document.selection.createRange) {
+if (typeof document !== 'undefined' && document.selection && document.selection.createRange) {
   get = hardGet;
   set = hardSet;
 }
